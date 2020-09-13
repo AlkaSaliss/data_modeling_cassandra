@@ -1,3 +1,12 @@
+# Project Intro
+
+This is part of Udacity Data Engineering Nanodegree projects, on data modeling with Cassandra database.
+The project is mainly constituted of the notebook `Project_1B_ Project_Template.ipynb` (which content is essentially is the same as the README content below) and a python script `cql_queries.py`.
+The python script contains the different CQL queries executed throughout the notebook.
+
+In the 1st section of the notebook csv files are processed and put in a single csv file.
+The 2nd section uses CQL queries from `cql_queries.py` script and create tables, populates them and executes queries against these tables.
+
 
 # Part I. ETL Pipeline for Pre-Processing the Files
 
