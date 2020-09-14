@@ -60,7 +60,7 @@ create_users_activities = """
         gender text,
         level text,
         location text,
-        PRIMARY KEY (user_id, session_id, item_in_session)
+        PRIMARY KEY ((user_id, session_id), item_in_session)
     )
 """
 
